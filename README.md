@@ -7,6 +7,9 @@ android apk one click decompile
 2. run decode-win/init.bat 
 3. select apk file right click "Apk decode" 
 ```
+# Run
+
+![](https://raw.githubusercontent.com/liuchenx/ApkDecode/master/art/run.jpg)
 
 # from
 
