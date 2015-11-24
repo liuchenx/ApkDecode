@@ -3,9 +3,9 @@ android apk one click decompile
 
 # Use
 ```
-git clone git@github.com:liuchenx/ApkDecompile.git
-run decode-win/init.bat 
-select apk file right click "Apk decode" 
+1. git clone git@github.com:liuchenx/ApkDecompile.git
+2. run decode-win/init.bat 
+3. select apk file right click "Apk decode" 
 ```
 
 # from
